@@ -1,1 +1,14 @@
-../../../../.git/annex/objects/WX/FP/MD5E-s864--a39d92e9f321159f04d0ab8d1dd8d6ad/MD5E-s864--a39d92e9f321159f04d0ab8d1dd8d6ad
+Warning: Permanently added 'c128-093' (ED25519) to the list of known hosts.
+WARNING (05/01/22 16:03:59): LAUNCHER_WORKDIR variable not set. Using current directory.
+using /tmp/launcher.4292376.hostlist.zeJU3OED to get hosts
+starting job on c128-093
+starting job on c130-102
+starting job on c131-023
+starting job on c133-012
+starting job on c133-164
+starting job on c133-203
+hostfile_replace_entries: link /home1/03201/jbwexler/.ssh/known_hosts to /home1/03201/jbwexler/.ssh/known_hosts.old: File exists
+update_known_hosts: hostfile_replace_entries failed for /home1/03201/jbwexler/.ssh/known_hosts: File exists
+hostfile_replace_entries: link /home1/03201/jbwexler/.ssh/known_hosts to /home1/03201/jbwexler/.ssh/known_hosts.old: File exists
+update_known_hosts: hostfile_replace_entries failed for /home1/03201/jbwexler/.ssh/known_hosts: File exists
+Terminated
